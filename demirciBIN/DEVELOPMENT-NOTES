@@ -1,0 +1,27 @@
+DEVELOPMENT-NOTES
+=================
+
+
+Graphical User Interface changes in version 1.6
+-----------------------------------------------
+
+* Tip texts for plot and help buttons added.
+* Added some comments to quick help.
+
+Extra
+-----
+
+* DEVELOPMENT-NOTES file added.
+* TODO file added.
+
+
+Graphical User Interface changes in version 1.5
+-----------------------------------------------
+
+* MaxE (Kilpatrick) parameter added (Default value: 1.8*E_kp).
+
+
+Graphical User Interface changes in version 1.4
+-----------------------------------------------
+
+* Save reminder for gui added.

@@ -1,0 +1,4 @@
+README
+======
+Info:
+* dmr.in has the accelerator cell definitions with 4 columns: "Vo[kV]     Phi[degree]    Rmin or a[cm]  m[unitless]"
